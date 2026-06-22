@@ -18,7 +18,7 @@ function Home() {
       description: "Built this very fun memory game.",
       image:
         "https://images.unsplash.com/photo-1654398957927-16cb1ee524fd?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      link: "/coming-soon",
+      link: "https://memomatching.netlify.app/",
     },
     {
       id: 3,
