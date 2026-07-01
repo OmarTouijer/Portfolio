@@ -26,7 +26,7 @@ function Home() {
       description: "Created this E-Commmerce website.",
       image:
         "https://plus.unsplash.com/premium_photo-1664908307814-9b5b104d5738?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      link: "/coming-soon",
+      link: "https://soleoecommerce.netlify.app/",
     },
     {
       id: 4,
